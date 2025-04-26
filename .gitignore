@@ -1,0 +1,8 @@
+venv/
+env/
+.venv/
+.env/
+config.py
+__pycache__/
+Thumbs.db
+.idea/
